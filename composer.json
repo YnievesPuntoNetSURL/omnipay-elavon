@@ -1,5 +1,5 @@
 {
-    "name": "aicinnovation/omnipay-elavon",
+    "name": "ynievespuntonetsurl/omnipay-elavon",
      "type": "library",
     "description": "Elavon payments driver for the Omnipay payment processing library",
     "keywords": [
@@ -12,7 +12,7 @@
         "payment",
         "payments"
     ],
-    "homepage": "https://github.com/christopheaic/omnipay-elavon",
+    "homepage": "https://github.com/ynievespuntonetsurl/omnipay-elavon",
     "license": "MIT",
     "authors": [
         {
